@@ -11,4 +11,5 @@ public class Main {
         Block thirdBlock = new Block("Hi im the third block", secondBlock.hash);
         System.out.println("Hach for block 3 : " + thirdBlock.hash);
     }
+
 }
